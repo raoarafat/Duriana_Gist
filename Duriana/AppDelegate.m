@@ -20,8 +20,8 @@
     // Override point for customization after application launch.
     
     /* Set Defualts */
-    [DataManager setToken:@"ca89025dfb9c214bce97bd6758c8291072380106"];
-    [DataManager setUserName:@"raoarafat"];
+    [DataManager setToken:@"TOKEN"];
+    [DataManager setUserName:@"USERNAME"];
     
     return YES;
 }
